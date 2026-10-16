@@ -1,0 +1,4 @@
+# Copy to application.properties or set environment variables
+DB_URL=jdbc:mysql://localhost:3306/finguard
+DB_USER=root
+DB_PASSWORD=root
